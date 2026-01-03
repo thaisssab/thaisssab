@@ -22,7 +22,5 @@ Sou apaixonada por transformar ideias em experiências digitais através do **Fr
 ![GCP](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
-
-### 📫 Minhas redes
-[Meu Linkedin]([https://www.linkedin.com/in/thais-soares-576116379]) | [Meu E-mail](thaisabreu.010@gmail.com)
-
+### Minhas redes!
+[Meu LinkedIn](https://www.linkedin.com/in/thais-soares-576116379) | [Meu E-mail](mailto:thaisabreu.010@gmail.com)
