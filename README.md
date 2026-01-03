@@ -24,5 +24,5 @@ Sou apaixonada por transformar ideias em experiências digitais através do **Fr
 ---
 
 ### 📫 Minhas redes
-[Link do seu LinkedIn]([(https://www.linkedin.com/in/thais-soares-576116379)]) | [Seu E-mail](thaisabreu.010@gmail.com)
+[Meu Linkedin]([https://www.linkedin.com/in/thais-soares-576116379]) | [Meu E-mail](thaisabreu.010@gmail.com)
 
